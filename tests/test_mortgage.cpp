@@ -1,4 +1,3 @@
-#include <gtest/gtest.h>
 #include <stdexcept>
 
 // Declaração da função core que criámos no src/mortgage.cpp
