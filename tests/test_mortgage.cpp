@@ -1,3 +1,4 @@
+#include <gtest/gtest.h>
 #include <stdexcept>
 
 // Declaração da função core que será testada
