@@ -1,0 +1,29 @@
+# Compilação e Arquivos Objeto
+*.o
+*.obj
+*.gch
+*.pch
+
+# Bibliotecas Estáticas e Dinâmicas
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executáveis e Pastas de Build (CMake, Make, etc.)
+*.out
+*.app
+*.exe
+bin/
+build/
+debug/
+release/
+cmake-build-*/
+
+# Sistema macOS
+.DS_Store
+
+# Editores e IDEs
+.vscode/
+.idea/
